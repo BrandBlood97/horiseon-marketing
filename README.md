@@ -9,6 +9,7 @@ This Horiseon Marketing webpage was developed to show users how Horiseon can mee
 N/A
 
 ## Usage
+[CLICK HERE](https://brandblood97.github.io/horiseon-marketing/) for webpage.
 
 Use the links in the header of the webpage to navigate to the section you want to read.
 Please refer to the image below for finding the header.
